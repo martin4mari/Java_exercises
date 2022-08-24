@@ -1,1 +1,1 @@
-- Estos son algunos de los ejercicios de práctica que realicé en la cursada de Full Stack developer Java con Egg Education
+- Estos son algunos de los ejercicios de práctica que realicé en la cursada de Full Stack developer Java con Egg Cooperativa
